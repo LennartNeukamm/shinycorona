@@ -34,7 +34,7 @@ server <- function(input, output) {
     })
 }
 
-***REMOVED***
+#THATSMYSECRETPIN
 
 # Run the application 
 shinyApp(ui = ui, server = server)
